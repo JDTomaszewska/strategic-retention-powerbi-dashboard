@@ -34,7 +34,7 @@ The main screen focuses on high-level executive KPIs and immediate diagnostic en
 
 ![Detailed Churn Trend Analysis](dashboard_page2.png)
 
----
+
 
 ## Architektura raportu i widoki (Wersja Polska)
 
@@ -45,12 +45,32 @@ Główny ekran koncentruje się na kluczowych wskaźnikach efektywności (KPI) d
 
 ### Strona 2: Szczegółowa Analiza Trendu (Widok Eksploracyjny)
 * Dedykowany widok szczegółowy zawierający rozbudowany wykres liniowy w wysokiej rozdzielczości, analizujący historyczną trajektorię wskaźnika odpływu w długim okresie, wzbogacony o suwak osi czasu dla zaawansowanego filtrowania okresów.
+## Business Insights & Strategy Presentation / Prezentacja biznesowa
+**[EN]** Beyond data engineering, this project delivered an executive-ready strategic proposal based on the report data. The full slide deck is available directly in the repository: 
+**[View Full Strategy Presentation (PDF)](Executive_Presentation_Retention_Strategy.pdf)**
+
+**[PL]** Poza samym przygotowaniem raportu, kluczowym elementem projektu było opracowanie propozycji strategicznej dla kadry zarządzającej. Pełna prezentacja biznesowa jest dostępna bezpośrednio w repozytorium:
+ **[Zobacz pełną prezentację strategiczną (PDF)](Executive_Presentation_Retention_Strategy.pdf)**
 
 ---
 
-##  Key Business Takeaways / Kluczowe Wnioski Biznesowe
-* **[EN]** While referral and organic channels exhibit strong retention (71% and 66% respectively), Paid Search and Social Ads underperform significantly. This reveals an optimization opportunity to reallocate marketing spend toward higher-lifetime-value (LTV) channels.
-* **[PL]** Podczas gdy kanały poleceń i ruchu organicznego wykazują silną retencję (odpowiednio 71% i 66% ), płatne wyszukiwanie oraz reklamy w mediach społecznościowych osiągają znacznie gorsze wyniki. Wskazuje to na potrzebę optymalizacji i realokacji budżetów marketingowych w stronę kanałów generujących wyższą wartość życiową klienta (LTV).
+## Key Business Takeaways & Recommendations (Executive Summary)
+
+### Regional Engagement vs. Goals
+* **[EN]** While the US market stays close to its target (4.8 vs 5.0 sessions/week), **Asia significantly underperforms** at 3.1 sessions/week, causing instabilities in the customer base.
+* **[PL]** Podczas gdy rynek USA utrzymuje się blisko celu (4.8 vs 5.0 sesji/tydz.), **Azja pozostaje wyraźnie w tyle** (3.1 sesji/tydz.), co destabilizuje bazę użytkowników w tym regionie.
+
+### Churn Correlation with Activity
+* **[EN]** A critical correlation was diagnosed: lower session duration directly triggers higher churn. Asia faces a **7% churn rate (9-min average session)** compared to just **3% churn in the US (15-min average session)**.
+* **[PL]** Zdiagnozowano krytyczną korelację: krótszy czas trwania sesji bezpośrednio napędza odpływ klientów. Azja mierzy się z **7% churnem (średnia sesja 9 min)** w porównaniu do zaledwie **3% churnu w USA (średnia sesja 15 min)**.
+
+### Feature Adoption Feature (Workout Plans)
+* **[EN]** Feature adoption tracking revealed that "Workout Plans" is a key retention driver—users interacting with this feature have **40% longer sessions**. However, adoption in Asia is only 42% (vs 65% in the US).
+* **[PL]** Śledzenie adopcji funkcji wykazało, że plany treningowe ("Workout Plans") są głównym motorem retencji – użytkownicy z nich korzystający mają **sesje o 40% dłuższe**. Adopcja tej funkcji w Azji wynosi jednak tylko 42% (wobec 65% w USA).
+
+### Strategic Actions Plan / Plan Działań Strategicznych
+* **Asia (Fix - Priority):** Localize content and redesign onboarding to enforce "Workout Plans" feature adoption. Shorten time-to-session goals.
+* **Europe (Scale):** Introduce loyalty programs and gamification to push engagement to the US benchmark.
+* **USA (Monetize):** A/B test the new "Premium Plus" model to monetize high-loyalty user segments.
 
 ---
-*Project implemented as part of a Business Intelligence portfolio demonstrating production-ready data architecture and human-centric dashboard design.*
