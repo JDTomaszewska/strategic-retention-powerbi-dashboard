@@ -11,8 +11,6 @@ Markdown
 
 ## Project Architecture & Tech Stack / Architektura projektu
 The project showcases a production-ready business intelligence workflow:
-* **Data Extraction & Aggregation:** SQL / PostgreSQL *(In Progress / W przygotowaniu)*
-* **Exploratory Data Analysis (EDA):** Microsoft Excel *(In Progress / W przygotowaniu)*
 * **Interactive Data Visualization:** Power BI Desktop (`Raport retencji.pbix` - Star Schema, DAX)
 * **Strategic Executive Summary:** Minimalist Business Presentation (PDF)
 
