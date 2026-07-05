@@ -29,6 +29,8 @@ The project showcases a production-ready business intelligence workflow:
 
 ## Key Insights & Slide Preview / Kluczowe wnioski i podgląd analizy
 
+![StreamFlow Dashboard Preview](dashboard_page1.png)
+
 ### 1. Global Churn Rate vs. Target (Wskaźnik Churnu vs. Cel)
 * **[EN]** Evaluation of top-level metrics tracking the Global Churn Rate against the corporate target. The analysis monitors baseline subscription stability and Net Subscriber Growth.
 * **[PL]** Ocena głównych metryk śledzących globalny wskaźnik churnu w odniesieniu do celu biznesowego. Analiza monitoruje bazową stabilność subskrypcji oraz przyrost netto użytkowników.
