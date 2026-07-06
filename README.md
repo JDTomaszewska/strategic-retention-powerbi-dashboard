@@ -11,7 +11,7 @@ Markdown
 
 ## Project Architecture & Tech Stack / Architektura projektu
 The project showcases a production-ready business intelligence workflow:
-* **Interactive Data Visualization:** Power BI Desktop (`Raport retencji.pbix` - Star Schema, DAX)
+* **Interactive Data Visualization:** Power BI Desktop (`Raport retencji.pbix`) - Star Schema, DAX
 * **Strategic Executive Summary:** Minimalist Business Presentation (PDF)
 
 ---
