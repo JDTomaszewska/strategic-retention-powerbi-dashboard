@@ -8,6 +8,15 @@ Markdown
 **[PL]** Projekt z zakresu Business Intelligence analizujący odpływ klientów, MRR oraz efektywność kanałów pozyskiwania klientów z wykorzystaniem narzędzi Power BI, DAX i Power Query.
 
 ![StreamFlow Dashboard Preview](dashboard_page1.png)
+
+### Project Files
+
+📊 **Power BI Dashboard (.pbix)**  
+➡️ [Open Power BI report](Raport%20retencji.pbix)
+
+📑 **Business Presentation (PDF)**  
+➡️ [View presentation](Executive_presentation_Retention_Strategy.pdf)
+
 ---
 ## Business Problem
 
