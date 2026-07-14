@@ -15,7 +15,7 @@ Markdown
 ➡️ [Open Power BI report](Raport%20retencji.pbix)
 
 📑 **Business Presentation (PDF)**  
-➡️ [View presentation](Executive_presentation_Retention_Strategy.pdf)
+➡️ [View presentation](Business presentation with strategic recommendations.pdf)
 
 ---
 ## Business Problem
@@ -29,7 +29,7 @@ The objective was to identify:
 
 ## My Contribution
 
-✔ Data cleaning
+✔ Data cleaning with Power Query
 
 ✔ Data modelling (Star Schema)
 
