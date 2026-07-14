@@ -15,7 +15,7 @@ Markdown
 ➡️ [Open Power BI report](Raport%20retencji.pbix)
 
 📑 **Business Presentation (PDF)**  
-➡️ [View presentation](Business presentation with strategic recommendations.pdf)
+➡️ [View presentation](Business%20presentation%20with%20strategic%20recommendations.pdf)
 
 ---
 ## Business Problem
